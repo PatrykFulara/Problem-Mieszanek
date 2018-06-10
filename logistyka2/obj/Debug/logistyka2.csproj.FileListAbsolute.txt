@@ -1,0 +1,15 @@
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\bin\Debug\logistyka2.exe.config
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\bin\Debug\logistyka2.exe
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\bin\Debug\logistyka2.pdb
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\obj\Debug\logistyka2.csprojResolveAssemblyReference.cache
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\obj\Debug\logistyka2.Form1.resources
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\obj\Debug\logistyka2.Properties.Resources.resources
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\obj\Debug\logistyka2.csproj.GenerateResource.Cache
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\obj\Debug\logistyka2.exe
+c:\users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\obj\Debug\logistyka2.pdb
+C:\Users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\patry_000\documents\visual studio 2015\Projects\logistyka2\logistyka2\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Debug\logistyka2.exe.manifest
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Debug\logistyka2.application
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Debug\logistyka2.exe.manifest
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Debug\logistyka2.application

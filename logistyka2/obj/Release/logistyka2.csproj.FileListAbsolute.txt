@@ -1,0 +1,15 @@
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Release\logistyka2.exe.config
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Release\logistyka2.exe.manifest
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Release\logistyka2.application
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Release\logistyka2.exe
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Release\logistyka2.pdb
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Release\Microsoft.Solver.Foundation.dll
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\bin\Release\Microsoft.Solver.Foundation.xml
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Release\logistyka2.csprojResolveAssemblyReference.cache
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Release\logistyka2.Form1.resources
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Release\logistyka2.Properties.Resources.resources
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Release\logistyka2.csproj.GenerateResource.Cache
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Release\logistyka2.exe.manifest
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Release\logistyka2.application
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Release\logistyka2.exe
+C:\Users\patry_000\Documents\Visual Studio 2015\Projects\logistyka2\logistyka2\obj\Release\logistyka2.pdb
